@@ -20,23 +20,23 @@ test_requirements = [
 ]
 
 setup(
-    name='django-scheduler-static',
+    name='django-scheduler-views',
     version='0.1.0',
     description='Django Scheduler Static files and views with templates',
     long_description=readme + '\n\n' + history,
     author='Leonardo Lazzaro',
     author_email='lazzaroleonardo@gmail.com',
-    url='https://github.com/llazzaro/django-scheduler-static',
+    url='https://github.com/llazzaro/django-scheduler-views',
     packages=[
-        'django-scheduler-static',
+        'django-scheduler-views',
     ],
-    package_dir={'django-scheduler-static':
-                 'django-scheduler-static'},
+    package_dir={'django-scheduler-views':
+                 'django-scheduler-views'},
     include_package_data=True,
     install_requires=requirements,
     license="BSD",
     zip_safe=False,
-    keywords='django-scheduler-static',
+    keywords='django-scheduler-views',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',

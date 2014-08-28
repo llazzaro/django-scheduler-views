@@ -1,21 +1,21 @@
 ===============================
-django-scheduler-static
+django-scheduler-views
 ===============================
 
-.. image:: https://badge.fury.io/py/django-scheduler-static.png
-    :target: http://badge.fury.io/py/django-scheduler-static
+.. image:: https://badge.fury.io/py/django-scheduler-views.png
+    :target: http://badge.fury.io/py/django-scheduler-views
 
-.. image:: https://travis-ci.org/llazzaro/django-scheduler-static.png?branch=master
-        :target: https://travis-ci.org/llazzaro/django-scheduler-static
+.. image:: https://travis-ci.org/llazzaro/django-scheduler-views.png?branch=master
+        :target: https://travis-ci.org/llazzaro/django-scheduler-views
 
-.. image:: https://pypip.in/d/django-scheduler-static/badge.png
-        :target: https://pypi.python.org/pypi/django-scheduler-static
+.. image:: https://pypip.in/d/django-scheduler-views/badge.png
+        :target: https://pypi.python.org/pypi/django-scheduler-views
 
 
 Django Scheduler Static files and views with templates
 
 * Free software: BSD license
-* Documentation: https://django-scheduler-static.readthedocs.org.
+* Documentation: https://django-scheduler-views.readthedocs.org.
 
 Features
 --------

@@ -2,6 +2,6 @@
 Usage
 ========
 
-To use django-scheduler-static in a project::
+To use django-scheduler-views in a project::
 
-    import django-scheduler-static
+    import django-scheduler-views

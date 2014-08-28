@@ -4,9 +4,9 @@ Installation
 
 At the command line::
 
-    $ easy_install django-scheduler-static
+    $ easy_install django-scheduler-views
 
 Or, if you have virtualenvwrapper installed::
 
-    $ mkvirtualenv django-scheduler-static
-    $ pip install django-scheduler-static
+    $ mkvirtualenv django-scheduler-views
+    $ pip install django-scheduler-views
