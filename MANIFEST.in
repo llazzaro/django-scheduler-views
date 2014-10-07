@@ -4,8 +4,8 @@ include HISTORY.rst
 include LICENSE
 include README.rst
 
-recursive-include tests *
-recursive-include site_media *
+recursive-include django-scheduler-views/tests *
+recursive-include django-scheduler-views/site_media *
 recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
 
